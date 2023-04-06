@@ -14,9 +14,11 @@ import (
 	"path/filepath"
 	"strconv"
 	"strings"
+
 	// internal packages
-	twee2 "github.com/tmedwards/tweego/internal/twee2compat"
-	twlex "github.com/tmedwards/tweego/internal/tweelexer"
+	twee2 "github.com/pec017/tweego/internal/twee2compat"
+	twlex "github.com/pec017/tweego/internal/tweelexer"
+
 	// external packages
 	"golang.org/x/net/html"
 )

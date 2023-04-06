@@ -11,8 +11,9 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+
 	// internal packages
-	"github.com/tmedwards/tweego/internal/option"
+	"github.com/pec017/tweego/internal/option"
 	// external packages
 	"github.com/paulrosania/go-charset/charset"
 )
